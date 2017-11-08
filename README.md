@@ -1,5 +1,9 @@
 # GharBar-Website
-GharBar website for sales report n stuff.
+
+![](https://github.com/yaki29/GharBar-Website/blob/master/screenshots/home1.png)
+![](https://github.com/yaki29/GharBar-Website/blob/master/screenshots/home2.png)
+![](https://github.com/yaki29/GharBar-Website/blob/master/screenshots/home3.png)
+
 
 
 Instructions to open the website
